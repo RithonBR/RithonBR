@@ -18,14 +18,4 @@
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-</div><br/>
-
-<div>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RithonBR&theme=dracula&show_icons=true&hide_border=false&count_private=true" />  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithonBR&theme=dracula&show_icons=true&hide_border=false&layout=compact" />
-
-
-</div>
-
 <div>
