@@ -6,8 +6,10 @@
 
 <p>Prazer tenho formação técnica em informática pelo Colégio Engenheiro Annes Gualberto (2016) e tecnologo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá (2023). Além disso, estou atualmente cursando Agronomia na Universidade Federal de Santa Catarina e também um curso técnico subsequente em eletrônica pelo Instituto Federal de Santa Catarina, no período noturno. Durante minha graduação realizei estágios em áreas diversas atualmente trabalho na Serasa agribusiness com mapeamento agrícola mais informações sobre o trabalho no LinkedIn </p>
 
-
+<div align="center" >
 # Conhecimentos em:
+</div>
+
 <div align="center" >
 <div style="Display: inline_block">
 
