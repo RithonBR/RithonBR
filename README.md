@@ -1,10 +1,8 @@
 <div align="center" >
-  
 # Olá, Meu nome é Luciano 🤙
-<p align= "justify">Meu propósito é contribuir para a evolução do agronegócio brasileiro.</p>
 </div>
 <div align="center" >
-  
+<p align= "justify">Meu propósito é contribuir para a evolução do agronegócio brasileiro.</p>
 # Conhecimentos em:
 
 </div>
