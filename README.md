@@ -3,10 +3,10 @@
 # Olá, meu nome é Luciano 🤙
 
 ### 🎯 Objetivo  
-Contribuir para a evolução do agronegócio brasileiro.
+Evoluir cada vez mais profissionalmente e pessoalmente.
 
 ### 📌 Sobre  
-Sou estudante de Agronomia apaixonado por tecnologia, dados e soluções inovadoras para o campo. Busco unir conhecimentos em programação, análise de dados e agronegócio para promover impactos positivos no setor.
+Sou tecnico em informatica, tecnologo em ADS e Graduado em Agronomia(🤯), vi potencial neste mercado desde a area de dados como outras soluções inovadoras para o campo. Busco unir conhecimentos em programação, análise de dados e agronegócio para promover impactos positivos no setor.
 
 </div>
 
